@@ -1,2 +1,4 @@
 # Water_Spirit
-Hero suggestion for Water spirit
+Water spirit.
+
+ToAdd: Individual scripts for each ability.
